@@ -1,5 +1,7 @@
 
 
+
+
 #head {
     text-align: center;
 }
@@ -28,7 +30,6 @@ div section {
 }
 
 div section h3 {
-
     background-color: grey;
     float: right;
     font-size: 1.25em;
