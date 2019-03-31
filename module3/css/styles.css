@@ -1,0 +1,78 @@
+
+
+body {
+  /*Replace before turn in */
+  font-size: 16px;
+  color: #fff;
+  background-color: lightblue;
+  font-family: 'Oxygen', sans-serif;
+  /*Not working, we need something to separate the body, from the section
+   so that our nac stretches across the screen*/
+}
+/* */
+.navb1ar-toggle, .icon-bar {
+  border: 1px solid #61122f;
+  background-color: white;
+}
+
+#header-nav {
+  border-radius: 0;
+  background-color: grey;
+  margin-bottom: 0;
+}
+/*Restaurant name */
+.navbar-brand h1 {
+  font-family: 'Lora', serif;
+  color: tan;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  font-weight: bold;
+  text-shadow: 1px 1px 1px #222;
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: .75;
+}
+
+.navbar-nav {
+  margin: 0;
+}
+.navbar-collapse {
+  padding: 0;
+}
+
+.navbar-nav p {
+  border: 1px solid black;
+  margin: 0;
+}
+ /*Direct child */
+#main-content > div {
+  margin: 10px;
+}
+
+/*Direct children chain! */
+#main-content > div > #row > #section {
+  display: block;
+  margin: 0px;
+  border: 2px solid #fff;
+  background-color: grey;
+  height: 1000px;
+  /*So the text doesn't hit the borders */
+  padding: 10px;
+}
+
+#main-content > div > #row > #section p {
+  color: lightblue;
+  padding: 5px 5px 5px 5px;
+  font-size: 14px;
+}
+
+#main-content > div > #row > #section h3 {
+  color: black;
+}
+
+/* change navbar background on collapse */
+@media (max-width: 768px) {
+  .navbar-collapse {
+    background: lightseagreen;
+  }
+}
