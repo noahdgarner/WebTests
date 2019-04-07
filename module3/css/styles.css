@@ -44,31 +44,51 @@ body {
   border: 1px solid black;
   margin: 0;
 }
- /*Direct child */
-#main-content > div {
-  margin: 10px;
+
+
+/*This is very helpful for our hover over item in drop down */
+a:hover {
+  text-decoration: none;
+  color: white;
 }
 
 /*Direct children chain! */
-#main-content > div > #row > #section {
+section {
   display: block;
-  margin: 0px;
   border: 2px solid #fff;
   background-color: grey;
   height: 1000px;
   /*So the text doesn't hit the borders */
-  padding: 10px;
+  margin-bottom: 15px;
 }
 
-#main-content > div > #row > #section p {
-  color: lightblue;
-  padding: 5px 5px 5px 5px;
-  font-size: 14px;
+section > p {
+  color: white;
+  margin: 30px 10px 10px;
+  clear: both;
 }
 
-#main-content > div > #row > #section h3 {
-  color: black;
+section > h3 {
+  position: relative;
+  color: white;
+  float: right;
+  border: 1px solid white;
+  padding: 5px;
+  margin: 0;
 }
+
+#Chicken {
+  background-color: #61122f;
+}
+
+#Beef {
+  background-color: #2aabd2;
+}
+
+#Sushi {
+  background-color: #2b542c;
+}
+
 
 /* change navbar background on collapse */
 @media (max-width: 768px) {
