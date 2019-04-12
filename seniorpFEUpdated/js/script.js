@@ -30,7 +30,7 @@ $(function () {
         insertHtml(selector, html);
     };
     //working
-    document.addEventListener("DOMContentLoaded", function (event) {
+    $(function (event) {
         //show user a loading icon while they wait for page load
         showLoading("#andHere");
         //we can use this object because its global in util.js!!

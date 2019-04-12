@@ -12,12 +12,12 @@ body {
   background-size: cover;
 }
 .section {
+  box-sizing: border-box;
   background-color: tan;
   border-radius: 10px;
   border: 1px solid black;
   margin: 20px;
-  height: 400px;
-
+  height: 100%;
 }
 /*Needed to do this so our AJAX Section 2 would stretch across screen
  Not exactly sure why... just debugged it and it worked.*/
@@ -35,6 +35,7 @@ form {
   /*keeps border even within section at small device */
   width: 80%;
   max-width: 400px;
+
 }
 
 /*Fixes the equality of length of the text boxes. */
