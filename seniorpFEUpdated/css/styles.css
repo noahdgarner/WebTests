@@ -17,6 +17,7 @@ body {
   border: 1px solid black;
   margin: 20px;
   height: 400px;
+
 }
 /*Needed to do this so our AJAX Section 2 would stretch across screen
  Not exactly sure why... just debugged it and it worked.*/
@@ -58,15 +59,58 @@ nav > a:hover, li > a:hover{
 p {
   margin: 10px;
 }
+
+
+/*Specific to auto complete, this is prototype
+These will all effect the way that options are displayed to user
+toy with this tomorrow*/
+.autocomplete {
+  /*the container must be positioned relative:*/
+  position: relative;
+  display: inline-block;
+}
+
+.autocomplete-items div {
+  border-radius: 5px;
+  width: 65%;
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #d4d4d4;
+}
+.autocomplete-items div:hover {
+  /*when hovering an item:*/
+  background-color: #e9e9e9;
+}
+
+
 /*Control the location of form fields. */
 @media (min-width: 768px) {
   fieldset {
     text-align: center;
   }
+  .autocomplete {
+    text-align: center;
+  }
+  .autocomplete-items div {
+    text-align: center;
+  }
+
 }
 @media (max-width: 768px) {
   fieldset {
     text-align: left;
   }
+  .autocomplete {
+    text-align: left;
+  }
+
+  .autocomplete-items div {
+    text-align: left;
+  }
+
 }
+
+
+
 

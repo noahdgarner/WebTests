@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c182fcaf-8ee8-4855-a376-45f7b89e4bd0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../module5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module5/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c182fcaf-8ee8-4855-a376-45f7b89e4bd0" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +23,7 @@
         <entry file="file://$PROJECT_DIR$/SpeakGoodBye.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
@@ -73,9 +71,9 @@
     <servers />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="967" />
+    <option name="x" value="966" />
     <option name="width" value="955" />
-    <option name="height" value="1038" />
+    <option name="height" value="1039" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -83,6 +81,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -94,7 +93,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -150,15 +148,15 @@
       <workItem from="1554441565303" duration="1186000" />
       <workItem from="1554584398138" duration="16636000" />
       <workItem from="1554964440856" duration="607000" />
+      <workItem from="1555047624715" duration="8000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18429000" />
+    <option name="totallyTimeSpent" value="18437000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="774" y="0" width="764" height="830" extended-state="0" />
-    <editor active="true" />
+    <frame x="773" y="0" width="764" height="831" extended-state="0" />
     <layout>
       <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="1" side_tool="true" />
@@ -178,7 +176,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.13352273" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.1377841" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,7 +209,7 @@
     <entry file="file://$PROJECT_DIR$/SpeakGoodBye.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
