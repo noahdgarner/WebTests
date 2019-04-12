@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c182fcaf-8ee8-4855-a376-45f7b89e4bd0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../module3/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../module3/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../module3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../module3/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../module5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../module5/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,16 +21,16 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/SpeakGoodBye.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="30">
-              <caret line="2" selection-start-line="2" selection-end-line="2" />
+            <state relative-caret-position="285">
+              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SpeakHello.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="150">
@@ -151,20 +149,19 @@
       <updated>1554441563890</updated>
       <workItem from="1554441565303" duration="1186000" />
       <workItem from="1554584398138" duration="16636000" />
-      <workItem from="1554964440856" duration="599000" />
+      <workItem from="1554964440856" duration="607000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18421000" />
+    <option name="totallyTimeSpent" value="18429000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="774" y="0" width="764" height="830" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13480055" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Structure" order="0" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.39541548" />
@@ -181,6 +178,7 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" anchor="right" content_ui="combo" id="Project" order="4" visible="true" weight="0.13352273" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -203,17 +201,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/SpeakGoodBye.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/SpeakHello.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SpeakGoodBye.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
